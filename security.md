@@ -157,6 +157,6 @@ did nothing" when they simply never restarted.
 
 ---
 
-*Counter-Strike 2 · Updated 2026-11-01 · Shared under the MIT License*
+*Counter-Strike 2 · Updated 2026-11-02 · Shared under the MIT License*
 
-<!-- updated 2026-11-01 -->
+<!-- updated 2026-11-02 -->
